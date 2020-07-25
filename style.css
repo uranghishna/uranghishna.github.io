@@ -1,0 +1,15 @@
+.bg{
+    background-image: url("me.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg2{
+    background-color: lavender;
+}
+
+.jumbotron{
+    height: 550px;
+}
